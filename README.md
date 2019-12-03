@@ -29,7 +29,7 @@ Wendy Orengo
 * Python version 3.6 Flask Heroku Gunicorn Internet connection
 
 # Installation Process
-* Navigate to my git repository 
+* Navigate to my git repository https://github.com/wendyorengo/Blogger.git
 
 * Clone the project to your computer
 
