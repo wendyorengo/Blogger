@@ -3,10 +3,10 @@ import unittest
 from blog.models import User, Post
 from blog import db
 
-class BlogModelTest(unittest.TestCase):
+class PostModelTest(unittest.TestCase):
 
     def setUp(self):
-        self.user_wendyorengo = User(username = "wendyorengo", password = "minayojane", email="orengowendy594@gmail.com")
+        self.user_wendyorengo = User(username = "wendyorengo", password = "1234", email="orengowendy594@gmail.com")
         self.new_post = Post(title="code", body = "coding rocks", user_id =self.user_wendyorengo.id )
     def tearDown(self):
         Post.query.delete()
