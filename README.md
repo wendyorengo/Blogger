@@ -28,6 +28,7 @@ Wendy Orengo
 # Setup/Installation Requirements
 * Python version 3.6 Flask Heroku Gunicorn Internet connection
 # Live Link
+* https://oreshblog.herokuapp.com/
 
 # Installation Process
 * Navigate to my git repository https://github.com/wendyorengo/Blogger.git
