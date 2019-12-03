@@ -40,7 +40,7 @@ Wendy Orengo
 * Run the command '$ python run.py'
 
 # Known Bugs
-* The profile picture of users has an error uploading but am working on it.
+* The app has no current bugs
 
 # Support
 * If you need any clarification on any aspect, feel free to reach me via email at orengowendy594@gmail.com
